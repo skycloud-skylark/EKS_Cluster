@@ -1,4 +1,4 @@
-name: Eks-Cluster
+name: Eks-demoCluster
 
 on:
   push:
